@@ -1,0 +1,1 @@
+manim -pqm manim_test.py Spam

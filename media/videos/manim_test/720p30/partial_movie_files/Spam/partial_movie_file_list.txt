@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1342159004_2188978311_223132457.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_1117229817_1058234309.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_1592627039_3073253480.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_2092760632_3073253480.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_174352559_3073253480.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_2835886953_3073253480.mp4'
+file 'file:C:/Users/clark/Manim_code/media/videos/manim_test/720p30/partial_movie_files/Spam/1353618911_329969645_30673270.mp4'
